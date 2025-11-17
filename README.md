@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/aM-suSDraLMAAAAd/cerdito-valiente-cerdito.gif" height="150" alt="Shinchan Brave Pig" />
   <img src="https://media1.tenor.com/m/Uvb5h87sXdwAAAAC/shinchan.gif" height="150" alt="Shinchan GIF" />
-  <img src="https://media1.tenor.com/m/6m8yhSqzv78AAAAd/ab-mai-itna-bhi-khaas-nahi-hu-shin-chan.gif" height="150" alt="Shinchan GIF 2" />
+  <img src="https://media1.tenor.com/m/FmdrdlYf2FwAAAAd/cerdito-valiente-cerdito.gif" height="150" alt="Shinchan GIF 2" />
 </div>
 
 <br>
