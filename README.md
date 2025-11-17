@@ -1,117 +1,140 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Aditya%20Bisht&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Aditya Bisht</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer+%7C+Backend+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdiBuriBuri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-<img align="right" height="170" src="https://media.tenor.com/Uvb5h87sXdwAAAAC/shinchan.gif" alt="Shinchan" />
+<img align="right" height="150" src="https://media1.tenor.com/m/Uvb5h87sXdwAAAAC/shinchan.gif" alt="Shinchan GIF" />
 
 ### 👨‍💻 About Me
 
-- 🎓 CS student
-- 🔭 Currently building small projects to sharpen my skills
+```python
+class AdityaBisht:
+    def __init__(self):
+        self.username = "AdiBuriBuri"
+        self.location = "Dehradun, India 🇮🇳"
+        self.education = "Computer Science Student"
+        self.hobbies = ["Coding", "Problem Solving", "Learning New Tech"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = AdityaBisht()
+me.say_hi()
+```
+
+<br clear="both">
 
 ---
-
-### 📚 Currently Learning
-
-- 🐍 **Python** (scripts, automation, backend basics)
-- ⚙️ **C / C++** (DSA, core concepts)
-- 🧱 Exploring **Django** & **Flutter** slowly
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdiBuriBuri&show_icons=true&theme=tokyonight"
-    height="150"
-    alt="stats graph"
-  />
-  <br/>
+## 📊 GitHub Statistics
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiBuriBuri&layout=compact&card_width=350&theme=tokyonight"
-    height="150"
-    alt="languages graph"
-  />
-  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdiBuriBuri&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiBuriBuri&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak" />
 
-  <img
-    src="https://streak-stats.demolab.com?user=AdiBuriBuri&theme=tokyonight&hide_border=false"
-    height="150"
-    alt="GitHub Streak"
-  />
-  <br/>
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdiBuriBuri&theme=tokyo-night&area=true&hide_border=false"
-    height="230"
-    alt="activity graph"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiBuriBuri&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiBuriBuri&theme=tokyo-night&custom_title=Contribution%20Graph&area=true&hide_border=false" height="170" alt="Activity Graph" />
 
 </div>
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,html,css" />
+
+### 🚀 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=django,flutter,react,nodejs,tailwind,bootstrap" />
+
+### 🔧 Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mongodb" />
+
 </div>
 
 ---
 
-### 🏷️ Tech Badges
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## 🏆 GitHub Trophies
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=AdiBuriBuri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
-### 🌐 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aditya-bisht-5a6036336/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
 </div>
 
 ---
 
-### 😄 Me
+## 📈 Coding Activity
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/6m8yhSqzv78AAAAC/ab-mai-itna-bhi-khaas-nahi-hu-shin-chan.gif" height="300" alt="Shinchan Funny GIF"/>
-</p>
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdiBuriBuri&theme=tokyonight" alt="Profile Summary" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentlyWorkingOn = {
+    learning: ["Advanced DSA", "System Design", "Web3"],
+    building: ["Full Stack Projects", "Open Source Contributions"],
+    goals: ["Master FAANG Interview Prep", "Build 10+ Projects", "Contribute to Major OS Projects"]
+};
+```
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bisht-5a6036336/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdiBuriBuri)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdiBuriBuri/AdiBuriBuri/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=AdiBuriBuri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+### ⭐ Show some love by starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
