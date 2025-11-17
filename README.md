@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Bisht</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer+%7C+Backend+Enthusiast;Loves+Manga+%26+Tabla;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer+%7C+Backend+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
 </h3>
 
 <p align="center">
