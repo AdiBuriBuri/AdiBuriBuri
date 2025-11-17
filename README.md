@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">
+  <img src="https://media1.tenor.com/m/aM-suSDraLMAAAAd/cerdito-valiente-cerdito.gif" height="150" alt="Shinchan Brave Pig" />
   <img src="https://media1.tenor.com/m/Uvb5h87sXdwAAAAC/shinchan.gif" height="150" alt="Shinchan GIF" />
   <img src="https://media1.tenor.com/m/6m8yhSqzv78AAAAd/ab-mai-itna-bhi-khaas-nahi-hu-shin-chan.gif" height="150" alt="Shinchan GIF 2" />
 </div>
@@ -106,6 +107,10 @@ const currentlyWorkingOn = {
 ## 💭 Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<br><br>
+
+<img src="https://media1.tenor.com/m/6m8yhSqzv78AAAAd/ab-mai-itna-bhi-khaas-nahi-hu-shin-chan.gif" height="200" alt="Shinchan Quote" />
 
 </div>
 
