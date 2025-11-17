@@ -88,7 +88,7 @@
 
 ---
 
-### 😂 Shinchan Mood
+### Me
 
 <p align="center">
   <img src="https://media1.tenor.com/m/6m8yhSqzv78AAAAC/ab-mai-itna-bhi-khaas-nahi-hu-shin-chan.gif" height="300" alt="Shinchan Funny GIF"/>
