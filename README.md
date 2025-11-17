@@ -1,4 +1,3 @@
-<!-- README.md for @AdiBuriBuri -->
 
 <h1 align="center">Hi 👋, I'm Aditya Bisht</h1>
 
@@ -16,17 +15,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CS student at **Graphic Era Hill University**
-- 💻 Interested in **Web Development & Backend**
-- 🥁 I enjoy playing **Tabla** and reading **Manga**
+- 🎓 CS student
 - 🔭 Currently building small projects to sharpen my skills
-- ✨ Motto: *“Learn, build, break, fix, repeat.”*
 
 ---
 
 ### 📚 Currently Learning
 
-- 🌐 **Web Dev** (HTML, CSS, JavaScript)
 - 🐍 **Python** (scripts, automation, backend basics)
 - ⚙️ **C / C++** (DSA, core concepts)
 - 🧱 Exploring **Django** & **Flutter** slowly
@@ -37,7 +32,6 @@
 
 <div align="center">
 
-  <!-- MAIN STATS -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=AdiBuriBuri&show_icons=true&theme=tokyonight"
     height="150"
@@ -45,7 +39,6 @@
   />
   <br/>
 
-  <!-- TOP LANGS -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiBuriBuri&layout=compact&card_width=350&theme=tokyonight"
     height="150"
@@ -53,7 +46,6 @@
   />
   <br/>
 
-  <!-- STREAK STATS -->
   <img
     src="https://streak-stats.demolab.com?user=AdiBuriBuri&theme=tokyonight&hide_border=false"
     height="150"
@@ -61,7 +53,6 @@
   />
   <br/>
 
-  <!-- ACTIVITY GRAPH -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=AdiBuriBuri&theme=tokyo-night&area=true&hide_border=false"
     height="230"
