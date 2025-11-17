@@ -9,8 +9,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/aM-suSDraLMAAAAd/cerdito-valiente-cerdito.gif" height="150" alt="Shinchan Brave Pig" />
   <img src="https://media1.tenor.com/m/Uvb5h87sXdwAAAAC/shinchan.gif" height="150" alt="Shinchan GIF" />
-  <img src="<img width="640" height="472" alt="image" src="https://github.com/user-attachments/assets/b1e027eb-6f2c-4c57-a0b5-b49f0faf6b19" />
-" height="150" alt="Shinchan GIF 2" />
+  <img src="https://github.com/user-attachments/assets/b1e027eb-6f2c-4c57-a0b5-b49f0faf6b19" height="150" alt="Shinchan GIF 2" />
 </div>
 
 <br>
