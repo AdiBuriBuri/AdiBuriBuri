@@ -14,14 +14,6 @@
 
 <img align="right" height="150" src="https://media.tenor.com/Uvb5h87sXdwAAAAC/shinchan.gif" alt="Shinchan" />
 
-### 👨‍💻 About Me
-
-- 🎓 CS student at **Graphic Era Hill University**  
-- 💻 Learning **Web Development & Backend**  
-- 🥁 I enjoy playing **Tabla** and reading **Manga**  
-- 🚀 Always working on new ideas and projects  
-
----
 
 ### 📊 GitHub Stats
 
