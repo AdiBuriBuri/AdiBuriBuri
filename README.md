@@ -12,21 +12,44 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Uvb5h87sXdwAAAAC/shinchan.gif" alt="Shinchan gif" />
+<img align="right" height="150" src="https://media.tenor.com/Uvb5h87sXdwAAAAC/shinchan.gif" alt="Shinchan" />
 
 ### 👨‍💻 About Me
 
-- 🎓 CS student at Graphic Era Hill University  
-- 💻 Learning Web Dev & Backend  
-- 🥁 I enjoy playing Tabla and reading Manga  
-- 🚀 Always experimenting with new projects and tech  
+- 🎓 CS student at **Graphic Era Hill University**  
+- 💻 Learning **Web Development & Backend**  
+- 🥁 I enjoy playing **Tabla** and reading **Manga**  
+- 🚀 Always working on new ideas and projects  
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdiBuriBuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiBuriBuri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=true" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiBuriBuri&bg_color=1a1b27&theme=elegant&custom_title=Aditya%20Bisht%20Activity&area=true&hide_border=false" height="150" alt="activity-graph" />
+
+<!-- MAIN STATS -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AdiBuriBuri&show_icons=true&theme=tokyonight"
+  height="150"
+  alt="stats graph"
+/>
+<br/>
+
+<!-- TOP LANGS -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiBuriBuri&layout=compact&card_width=350&theme=tokyonight"
+  height="150"
+  alt="languages graph"
+/>
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AdiBuriBuri&theme=tokyo-night&area=true&hide_border=false"
+  height="230"
+  alt="activity graph"
+/>
+
 </div>
 
 ---
@@ -34,23 +57,23 @@
 ### 🧰 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 </div>
 
 ---
@@ -59,14 +82,14 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aditya-bisht-5a6036336/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ---
 
-### 🐍 My Contribution Snake
+### 😂 Shinchan Mood
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdiBuriBuri/AdiBuriBuri/output/snake.svg" alt="Snake animation" />
+  <img src="https://media1.tenor.com/m/6m8yhSqzv78AAAAC/ab-mai-itna-bhi-khaas-nahi-hu-shin-chan.gif" height="300" alt="Shinchan Funny GIF"/>
 </p>
