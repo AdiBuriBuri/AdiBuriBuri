@@ -57,10 +57,10 @@ me.say_hi()
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp,dart" />
 
 ### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=django,flutter,react,nodejs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=django,flutter" />
 
 ### 🔧 Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,vscode,github,mongodb,firebase,linux" />
+<img src="https://skillicons.dev/icons?i=git,vscode,github,mongodb" />
 
 </div>
 
