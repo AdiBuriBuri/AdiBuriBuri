@@ -37,17 +37,6 @@ me.say_hi()
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdiBuriBuri&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiBuriBuri&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiBuriBuri&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="170" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiBuriBuri&theme=tokyo-night&custom_title=Contribution%20Graph&area=true&hide_border=false" height="170" alt="Activity Graph" />
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
